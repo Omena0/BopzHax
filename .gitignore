@@ -1,0 +1,9 @@
+*__*
+*.spec
+
+.pyarmor
+obf
+build
+src
+
+build.cmd
