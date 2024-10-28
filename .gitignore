@@ -1,7 +1,7 @@
 *__*
 *.spec
 
-.pyarmor
+.venv
 obf
 build
 src
