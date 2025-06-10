@@ -1,9 +1,0 @@
-*__*
-*.spec
-
-.venv
-obf
-build
-src
-
-build.cmd
