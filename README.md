@@ -3,7 +3,7 @@
 
 ## BopzHax-V3 is a Bopz.io aim bot/assist cheat.
 
-# [Download](https://github.com/Omena0/BopzHax/raw/main/dist/BopzHax-V3.exe) | [Website](./static/index.html)
+# [Download](https://github.com/Omena0/BopzHax/raw/main/dist/BopzHax-V3.exe) | [Website](https://omena0.github.io/BopzHax/)
 
 ## Dm me for licence
 
